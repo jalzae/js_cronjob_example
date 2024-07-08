@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "node-cron": "^3.0.3"
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.3",
+    "path": "^0.12.7"
   }
 }
